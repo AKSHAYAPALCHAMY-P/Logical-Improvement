@@ -15,7 +15,7 @@
         internal static void Solve()
         {
             int start = 1;
-            int end = 6;
+            int end = 5;
 
             for (int i = start; i < end; i++)
             {
