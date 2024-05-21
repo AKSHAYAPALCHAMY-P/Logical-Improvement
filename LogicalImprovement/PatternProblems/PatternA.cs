@@ -17,9 +17,9 @@
             int start = 1;
             int end = 5;
 
-            for (int i = start; i < end; i++)
+            for (int i = start; i <= end; i++)
             {
-                for (int j = start; j < end; j++)
+                for (int j = start; j <= end; j++)
                 {
                     Console.Write("* ");
                 }

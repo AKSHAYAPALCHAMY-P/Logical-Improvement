@@ -1,4 +1,6 @@
 ﻿using LogicalImprovement.PatternProblems;
 
 //PatternA.Solve();
-PatternB.SolveB();
+//PatternB.SolveB();
+PatternC.SolveC();
+//PatternD.SolveD();
